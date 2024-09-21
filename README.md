@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Python, JavaScript, Vue.js, Node.js, PHP, Perl, and C++**.
 
-- 📫 How to reach me: **m.amine.azouz@gmail.com**  <a href="https://ma.linkedin.com/in/mohamed-el-amine-azouz-2aa3b7215" target="_blank"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" /></a>
+- 📫 How to reach me: **m.amine.azouz@gmail.com** ,  <a href="https://ma.linkedin.com/in/mohamed-el-amine-azouz-2aa3b7215" target="_blank"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" /></a>
 
 - 🌍 I’m based in **Tangier, Morocco**.
 
