@@ -49,7 +49,7 @@
   <a href="https://bitbucket.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/></a>
   <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://pyppeteer.readthedocs.io/en/latest/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppeteer/puppeteer-original.svg" alt="pyppeteer" width="40" height="40"/></a>
-  <a href="https://airflow.apache.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache airflow" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org" target="_blank"><img https://ma.linkedin.com/in/mohamed-el-amine-azouz-2aa3b7215 alt="apache airflow" width="40" height="40"/></a>
   <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.oracle.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
   <a href="https://www.sqlite.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>
