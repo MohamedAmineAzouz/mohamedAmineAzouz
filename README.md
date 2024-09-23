@@ -72,5 +72,5 @@
 
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAmineAzouz&show_icons=true&locale=en&layout=compact" alt="MohamedAmineAzouz" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAmineAzouz&show_icons=true&bg_color=191919&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc" alt="MohamedAmineAzouz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAmineAzouz&show_icons=true&locale=en" alt="MohamedAmineAzouz" /></p>
 </div>
