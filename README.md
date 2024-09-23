@@ -71,6 +71,6 @@
 
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmineAzouz&layout=compact&hide=html&bg_color=191919&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc" alt="mohamedAmineAzouz" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAmineAzouz&show_icons=true&locale=en&layout=compact" alt="MohamedAmineAzouz" /></p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAmineAzouz&show_icons=true&bg_color=191919&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc" alt="mohamedAmineAzouz" />
 </div>
