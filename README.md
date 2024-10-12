@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **backend development projects**. I have expertise in building robust and scalable web applications using various programming languages like **Java, Python, PHP, C++**, and frameworks such as **Laravel, Django, Express.js, FastAPI, Flask (micro framework), and Spring Boot**.  I use **Node.js** as a runtime for JavaScript on the backend. I specialize in **RESTful API** design, **database management**, and **server-side logic**. I'm also experienced in **Docker** and optimizing application performance.
 
-- 💬 Ask me about **Java, Python, JavaScript, Vue.js, Node.js, PHP, Perl, and C++**.
+- 💬 Ask me about **Java, Python, Vue.js, Node.js, PHP, Perl, and C++**.
 
 - 📫 How to reach me: **m.amine.azouz@gmail.com** ,  <a href="https://ma.linkedin.com/in/mohamed-el-amine-azouz-2aa3b7215" target="_blank"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" /></a>
 
